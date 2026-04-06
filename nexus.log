@@ -1,0 +1,15 @@
+[2026-04-06 21:17:00] [INFO] [nexus_api]: Compiling intent for persona: AI Engineer 
+[2026-04-06 21:18:25] [INFO] [nexus_api]: Intent compilation successful
+[2026-04-06 21:18:31] [INFO] [nexus_api]: Compiling intent for persona: AI Engineer 
+[2026-04-06 21:20:52] [INFO] [nexus_api]: Intent compilation successful
+[2026-04-06 21:20:54] [INFO] [nexus_api]: Executing Ghost-Protocol Harvesting
+[2026-04-06 21:20:54] [INFO] [nexus_api]: Scouring LinkedIn with Dork: site:linkedin.com/in/ "Lead AI Engineer" "Principal AI Architect" "Enterprise AI Solutions" "AI Talent Acquisition"
+[2026-04-06 21:21:02] [INFO] [nexus_api]: Scouring GitHub with Dork: site:github.com "AI Engineer" "MLOps" "Talent Pipeline" "Python"
+[2026-04-06 21:21:08] [INFO] [nexus_api]: Scouring News/Twitter with Dork: "Enterprise AI Solutions" "AI Engineering Upskilling" "Strategic Initiatives"
+[2026-04-06 21:21:10] [WARNING] [nexus_api]: No leads found matching constraints.
+[2026-04-06 21:46:58] [INFO] [nexus_api]: Extracting intelligence from Omni-Prompt
+[2026-04-06 21:49:35] [INFO] [nexus_api]: Intelligence extraction successful
+[2026-04-06 21:49:37] [INFO] [nexus_api]: Executing Omni-Vector Search Phase
+[2026-04-06 21:49:37] [INFO] [nexus_api]: Targeting LinkedIn with Vector: site:linkedin.com/in/ ("coach" OR "consultant") AND ("content editing" OR "content strategy") AND ("engagement" OR "ROI" OR "high-ticket") AND "USA"
+[2026-04-06 21:49:44] [INFO] [nexus_api]: Targeting GitHub with Vector: site:github.com "content editing" AND ("engagement tools" OR "automation") AND ("coach" OR "consultant") AND "USA"
+[2026-04-06 21:49:50] [INFO] [nexus_api]: Targeting News/Twitter with Vector: "coaches consultants" AND ("low engagement" OR "content editing challenges") AND ("$25k" OR "high-value services") AND "USA"
